@@ -1,4 +1,6 @@
 # Byte-compiled / optimized / DLL files
+rag_knowledge_db/
+
 __pycache__/
 *.py[cod]
 *$py.class
